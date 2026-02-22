@@ -1,0 +1,1 @@
+CTF{sudo_argument_injection_master}

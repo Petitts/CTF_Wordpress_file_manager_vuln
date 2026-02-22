@@ -1,5 +1,11 @@
 # CTF_Wordpress_file_manager_vuln
 
+## Deploy
+
+docker compose build --no-cache
+
+docker compose up -d
+
 ## Suplementary materials:
 > https://github.com/w4fz5uck5/wp-file-manager-0day
 >

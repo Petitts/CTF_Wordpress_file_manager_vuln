@@ -1,1 +1,0 @@
-CTF{initial_access_wordpress}
